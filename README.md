@@ -4,12 +4,6 @@
 
 An interactive sales analysis dashboard built in **Microsoft Excel**, using PivotTables and PivotCharts on a 9,994-row retail sales dataset. The dashboard tracks sales and profit trends by category, region, customer, and time period.
 
-![Dashboard Screenshot](# 📊 Sales Performance Dashboard (Excel)
-
-## Overview
-
-An interactive sales analysis dashboard built in **Microsoft Excel**, using PivotTables and PivotCharts on a 9,994-row retail sales dataset. The dashboard tracks sales and profit trends by category, region, customer, and time period.
-
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
 ---

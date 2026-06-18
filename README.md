@@ -60,7 +60,7 @@ excel-sales-dashboard/
 │
 ├── README.md
 ├── dashboard_screenshot.png      ← Preview image (shown above)
-└── sales_dashboard.xlsx          ← Full interactive Excel file
+└── sales_dashboard.csv.xlsx          ← Full interactive Excel file
 ```
 
 ---
@@ -75,7 +75,7 @@ excel-sales-dashboard/
 
 ---
 
-*Project by Yash | Excel Data Analysis Portfolio Project*)
+(*Project by Yash | Excel Data Analysis Portfolio Project*)
 
 ---
 
